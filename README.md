@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Igor Vieira, sou Desenvolvedor Front End é um apaixonado por tecnologia!
+Meu nome é Igor Vieira, sou Desenvolvedor Full Stack é um apaixonado por tecnologia!
 
 Neste espaço, posto meus projetos pessoais, aonde a minha imaginção se transforma em  código.
 
